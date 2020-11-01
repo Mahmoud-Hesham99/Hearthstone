@@ -1,2 +1,2 @@
 # Hearthstone
-# Credits to Mahmoud-Hesham99 * BobSolyman
+# Credits to Mahmoud-Hesham99 & BobSolyman
